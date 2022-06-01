@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "main",
+  "description": "Simple Node Js Web Application",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krunalpadade17021997/main.git"
+  },
+  "author": "krunalpadade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krunalpadade17021997/main/issues"
+  },
+  "homepage": "https://github.com/krunalpadade17021997/main#readme"
+}
